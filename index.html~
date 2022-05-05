@@ -53,7 +53,7 @@
         <!-- Content section 1-->
         <section id="scroll">
 		<div class="post-4 page type-page status-publish hentry">
-		<div class="container composer-main-content-page">
+		<div class="composer-main-content-page">
 		<p><img width="1024" height="298" src="assets/img/header.png" sizes="(max-width: 1024px) 100vw, 1024px">
 		</p>
 		<p>The Interdisciplinary Computational Cognitive Science Spring School (IICCSSS) is an annual educational meeting for students and young researchers interested in computational approaches to brain and cognitive sciences.&nbsp;&nbsp;</p>
