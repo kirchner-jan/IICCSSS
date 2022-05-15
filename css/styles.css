@@ -37,7 +37,10 @@ section,
 summary {
   display: block;
 }
-
+input {
+  background-color: #3CBC8D;
+  color: white;
+}
 #outer {
   height: 80px;
   display: flex;
