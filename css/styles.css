@@ -46,8 +46,22 @@ summary {
   justify-content: right;
   align-items: center;
 }
-
-
+#outer-content {
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+#section1 {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
 audio,
 canvas,
 progress,
