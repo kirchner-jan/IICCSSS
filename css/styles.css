@@ -3651,6 +3651,18 @@ a, a:active, a:hover, a:focus {
 ul, ol {
     padding-left: 20px;
 }
+p.philosophy-block {
+  line-height: 1.2;
+  border:1px; 
+  border-style:solid; 
+  border-color:#000000; 
+  padding: 1em;
+  width: 600px;
+  margin: auto;
+  text-align: justify; 
+  text-justify: inter-word;
+  font-style: italic;
+}
 article a {
     border-bottom: 1px dotted #777777;
     font-weight: bold;
