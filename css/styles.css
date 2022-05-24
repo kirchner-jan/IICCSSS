@@ -940,6 +940,19 @@ p.organizer-block {
   font-style: italic
 }
 
+p.schedule-block {
+  line-height: 1.3;
+  border: 1px;
+  border-style: solid;
+  border-color: #1c6399;
+  padding: 1em;
+  width: 600px;
+  margin: auto;
+  text-align: center;
+  text-justify: inter-word;
+  font-style: regular;
+}
+
 img.organizer-picture {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
