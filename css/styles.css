@@ -179,7 +179,7 @@ input {
 }
 
 #outer-content {
-  height: 500px;
+  height: 400px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -934,6 +934,19 @@ p.organizer-block {
   border-color: #1c6399;
   padding: 1em;
   width: 600px;
+  margin: auto;
+  text-align: justify;
+  text-justify: inter-word;
+  font-style: italic
+}
+
+p.pinky-promise-block {
+  width:300px;
+  line-height: 1.5;
+  border: 1px;
+  border-style: solid;
+  border-color: #1c6399;
+  padding: 1em;
   margin: auto;
   text-align: justify;
   text-justify: inter-word;
