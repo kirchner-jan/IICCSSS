@@ -927,6 +927,19 @@ p.philosophy-block {
   font-style: italic
 }
 
+p.index-block {
+  line-height: 1.4;
+  border: 1px;
+  border-style: solid;
+  border-color: #1c6399;
+  padding: 3em;
+  width: 800px;
+  margin: auto;
+  text-align: justify;
+  text-justify: inter-word;
+  font-style: regular;
+}
+
 p.organizer-block {
   line-height: 1.3;
   border: 1px;
