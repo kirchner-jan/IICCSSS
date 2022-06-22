@@ -326,6 +326,7 @@ tr { border: none; }
 }
 
 table tr td:last-of-type {
+  width: 90%;
   border: none;
 }
 td,
