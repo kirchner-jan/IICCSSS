@@ -975,7 +975,7 @@ p.speaker-block {
 }
 
 p.pinky-promise-block {
-  width:300px;
+  width:30%;
   line-height: 1.5;
   border: 1px;
   border-style: solid;
@@ -993,7 +993,7 @@ p.schedule-block {
   border-style: solid;
   border-color: #1c6399;
   padding: 1em;
-  width: 600px;
+  width: 60%;
   margin: auto;
   text-align: center;
   text-justify: inter-word;
