@@ -930,7 +930,7 @@ p.philosophy-block {
   border-style: solid;
   border-color: #1c6399;
   padding: 1em;
-  width: 600px;
+  width: 85%;
   margin: auto;
   text-align: justify;
   text-justify: inter-word;
@@ -956,7 +956,7 @@ p.organizer-block {
   border-style: solid;
   border-color: #1c6399;
   padding: 1em;
-  width: 430px;
+  width: 70%;
   margin: auto;
   text-align: justify;
   text-justify: inter-word;
@@ -1004,7 +1004,7 @@ p.schedule-block {
 img.organizer-picture {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
-  width: 120px;
+  width: 25%;
   height: 120px;
   border: 1px;
   border-style: solid;
