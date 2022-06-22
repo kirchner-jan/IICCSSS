@@ -313,6 +313,7 @@ textarea {
 }
 
 table {
+  width: 90%;
   border-collapse: collapse;
   border-spacing: 0
 }
@@ -975,7 +976,7 @@ p.speaker-block {
 }
 
 p.pinky-promise-block {
-  width:30%;
+  width:80%;
   line-height: 1.5;
   border: 1px;
   border-style: solid;
