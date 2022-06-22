@@ -955,7 +955,7 @@ p.organizer-block {
   border-style: solid;
   border-color: #1c6399;
   padding: 1em;
-  width: 430px;
+  width: 43%;
   margin: auto;
   text-align: justify;
   text-justify: inter-word;
@@ -968,7 +968,7 @@ p.speaker-block {
   border-style: solid;
   border-color: #1c6399;
   padding: 1em;
-  width: 250px;
+  width: 25%;
   margin: auto;
   font-style: italic;
   font-size: 75%;
