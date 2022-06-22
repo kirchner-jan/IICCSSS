@@ -1005,8 +1005,8 @@ p.schedule-block {
 img.organizer-picture {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
-  width: 250%;
-  height: 250%;
+  width: 100px;
+  height: 100px;
   border: 1px;
   border-style: solid;
   border-color: #1c6399
