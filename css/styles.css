@@ -970,7 +970,7 @@ p.speaker-block {
   border-style: solid;
   border-color: #1c6399;
   padding: 1em;
-  width: 250px;
+  width: 30%;
   margin: auto;
   font-style: italic;
   font-size: 75%;
@@ -1005,8 +1005,8 @@ p.schedule-block {
 img.organizer-picture {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
-  width: 25%;
-  height: 25%;
+  width: 100%;
+  height: 100%;
   border: 1px;
   border-style: solid;
   border-color: #1c6399
@@ -1015,8 +1015,8 @@ img.organizer-picture {
 img.speaker-picture {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
-  width: 100px;
-  height: 100px;
+  width: 100%;
+  height: 100%;
   border: 1px;
   border-style: solid;
   border-color: #1c6399
