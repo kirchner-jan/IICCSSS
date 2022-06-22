@@ -319,7 +319,7 @@ table {
 }
 
 table { border-collapse:collapse; }
-table thead th { border-bottom: 0.5px solid rgb(189, 189, 189); }
+table thead th { width: 90%; border-bottom: 0.5px solid rgb(189, 189, 189); }
 tr { border: none; }
 .line {
   border-left:  solid 0.5px rgb(189, 189, 189);
@@ -1006,7 +1006,7 @@ img.organizer-picture {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
   width: 25%;
-  height: 120px;
+  height: 25%;
   border: 1px;
   border-style: solid;
   border-color: #1c6399
