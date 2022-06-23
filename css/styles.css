@@ -1015,8 +1015,8 @@ img.organizer-picture {
 img.speaker-picture {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
-  width: 75px;
-  height: 75px;
+  width: 120px;
+  height: 120px;
   border: 1px;
   border-style: solid;
   border-color: #1c6399
