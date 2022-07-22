@@ -961,7 +961,8 @@ p.organizer-block {
   margin: auto;
   text-align: justify;
   text-justify: inter-word;
-  font-style: italic
+  font-style: italic;
+  font-size: 75%;
 }
 
 p.speaker-block {
